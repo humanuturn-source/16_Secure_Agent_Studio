@@ -1,0 +1,3 @@
+
+Compare the total compensation from both files and save the final result as a JSON file named result.json with keys for file_1, file_2, and match_status.
+

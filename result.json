@@ -1,0 +1,19 @@
+{
+    "comparison_details": "Total Compensation Comparison",
+    "files_analyzed": [
+        {
+            "file_path": "/app/input_1.pdf",
+            "extracted_compensation": "3,000.00"
+        },
+        {
+            "file_path": "/app/input_2.pdf",
+            "extracted_compensation": "5,000.00"
+        }
+    ],
+    "summary": {
+        "compensation_file_1": "3,000.00",
+        "compensation_file_2": "5,000.00",
+        "match_status": "DO NOT MATCH",
+        "message": "The total compensation amounts are different."
+    }
+}

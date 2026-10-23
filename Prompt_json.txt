@@ -1,0 +1,2 @@
+Compare the total compensation from both files and export the detailed telemetry and results to result.json.
+

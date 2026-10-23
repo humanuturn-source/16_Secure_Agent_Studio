@@ -1,0 +1,5 @@
+
+
+Extract the text from this PDF using pypdf, parse the Base Salary and Total Compensation. Calculate 10% of Base salary as Tax, deduct Tax from Total Compensation as Net Salary. Print, Base Salary, Total Compensation, Tax, and Net Salary.
+
+
